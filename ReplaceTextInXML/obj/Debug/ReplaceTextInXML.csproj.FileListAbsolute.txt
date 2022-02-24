@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\ReplaceTextInXML\ReplaceTextInXML\bin\Debug\ReplaceTextInXML.exe.config
+C:\Users\User\Source\Repos\ReplaceTextInXML\ReplaceTextInXML\bin\Debug\ReplaceTextInXML.exe
+C:\Users\User\Source\Repos\ReplaceTextInXML\ReplaceTextInXML\bin\Debug\ReplaceTextInXML.pdb
+C:\Users\User\Source\Repos\ReplaceTextInXML\ReplaceTextInXML\obj\Debug\ReplaceTextInXML.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\ReplaceTextInXML\ReplaceTextInXML\obj\Debug\ReplaceTextInXML.Form1.resources
+C:\Users\User\Source\Repos\ReplaceTextInXML\ReplaceTextInXML\obj\Debug\ReplaceTextInXML.Properties.Resources.resources
+C:\Users\User\Source\Repos\ReplaceTextInXML\ReplaceTextInXML\obj\Debug\ReplaceTextInXML.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\ReplaceTextInXML\ReplaceTextInXML\obj\Debug\ReplaceTextInXML.exe
+C:\Users\User\Source\Repos\ReplaceTextInXML\ReplaceTextInXML\obj\Debug\ReplaceTextInXML.pdb
